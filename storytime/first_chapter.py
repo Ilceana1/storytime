@@ -1,1 +1,1 @@
-print("Había una vez, una pequeña campesina que viajando por el mundo iba.")
+print("Había una vez, una dulce y pequeña campesina que se encontro un ganso dorado.")
